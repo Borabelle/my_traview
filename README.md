@@ -1,4 +1,4 @@
-# 아띠의 고민 상담소
+# My Traview
 
 <div>
  <h2>1. Getting Started</h2>
