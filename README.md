@@ -118,7 +118,7 @@ Run Application<br><br>
 
 <div>
 <h2>6. API Docs(with POSTMAN)</h2>
-https://api.postman.com/collections/23095077-7a6aa9a5-dcef-4b94-8354-8c04e88633d6?access_key=PMAT-01GP2D0ZFY7W8226YERRTJE2MA<br><br>
+<br><br>
 </div>
 
 <h2>7. ERD</h2>
@@ -131,7 +131,7 @@ https://api.postman.com/collections/23095077-7a6aa9a5-dcef-4b94-8354-8c04e88633d
 <li>ECLIPSE - 4.2</li>
 <li>SPRINGBOOT - 2.7.3</li>
 <li>TAILWINDCSS - 3.2.4</li>
-<li>MATERIALCSS - </li>
+<li>MATERIALCSS - 5.11.2</li>
 
 <div>
 <p>
