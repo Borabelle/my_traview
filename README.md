@@ -122,6 +122,7 @@ Run Application<br><br>
 </div>
 
 <h2>7. ERD</h2>
+![erd](https://user-images.githubusercontent.com/108639301/210914181-8467f3dd-1fc9-474b-8b20-e5259104ec64.jpg)
 <br><br>
 
 <h2>8. Stack</h2><br>
